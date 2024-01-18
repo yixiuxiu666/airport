@@ -1,0 +1,5 @@
+vless= malaysia.com:80, method=none, password= 0ca58a83-dd3d-4579-b0ff-d507fda77554, obfs=ws, obfs-uri=/, obfs-host=sun2.crea214mer.workers.dev, fast-open=false, udp-relay=false, tag=vless-01
+
+vless=japan.com:80, method=none, password= e5e7bc2b-01cb-424e-a0ce-1dd8df041148, obfs=ws, obfs-uri=/, obfs-host= 444.ctstslj.workers.dev, fast-open=false, udp-relay=false, tag=vless-02
+
+vless=www.shopity.com:80, method=none, password= e5e7bc2b-01cb-424e-a0ce-1dd8df041148, obfs=ws, obfs-uri=/, obfs-host= 444.ctstslj.workers.dev, fast-open=false, udp-relay=false, tag=vless-03
