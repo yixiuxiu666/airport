@@ -5,3 +5,5 @@ shadowsocks=console.pitv.win:13228, method=aes-128-gcm, password=haMLMXirByn6rGV
 shadowsocks=58tongcheng.51ideal.cyou:12266, method=aes-128-gcm, password=haMLMXirByn6rGVh, obfs=http, obfs-host=69435e76ba21.microsoft.com, fast-open=false, udp-relay=false, tag=🇬🇧 英国 05丨1x GB
 
 shadowsocks=58tongcheng.51ideal.cyou:12655, method=aes-128-gcm, password=haMLMXirByn6rGVh, obfs=http, obfs-host=69435e76ba21.microsoft.com, fast-open=false, udp-relay=false, tag=🇹🇷 土耳其 02丨1x TR
+
+shadowsocks=144.34.182.17:36569, method=aes-256-gcm, password=3MFfV7AUgHRfkYsW, fast-open=false, udp-relay=false, tag=us
