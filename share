@@ -1,4 +1,4 @@
 
 shadowsocks=144.34.182.17:36569, method=aes-256-gcm, password=3MFfV7AUgHRfkYsW, fast-open=false, udp-relay=false, tag=🇺🇸 美国-家宽 US
-vless= 144.24.139.190:28852, method=none, password= ee187c79-7594-4a97-96bc-ff717c61a919, obfs=ws, obfs-uri=/a, fast-open=false, udp-relay=false, tag= 🇮🇳India_Oracle
+
 vmess=93.95.230.200:37072, method=aes-128-gcm, password=ca8c48c3-ea84-402f-fc01-97bd25a1d446, obfs=ws, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=冰岛
